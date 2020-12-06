@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Hour17</string>
+    <string name="id">Id: </string>
+    <string name="name">Name: </string>
 </resources>

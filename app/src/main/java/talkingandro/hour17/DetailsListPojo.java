@@ -15,7 +15,7 @@ public class DetailsListPojo {
         return detailList;
     }
 
-    public void setdetailList(List<Detail> detailList) {
+    public void setDetailList(List<Detail> detailList) {
         this.detailList = detailList;
     }
 }
